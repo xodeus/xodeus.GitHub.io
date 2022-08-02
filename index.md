@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Abuot this site
+Ever walked the city and thought I would like a beer now, but waas short of money to buy it? Well - I'll help you find small funds with almost no effort from you to finance your next beer, and the next one and the next one.
 
-You can use the [editor on GitHub](https://github.com/xodeus/xodeus.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## How it's done
+You choose some projects from this site, click the link and sign-up, then click some additional stuff to get the money sent to your account or wallet.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Let's begin
+### Wallet and Card
+With all the money you are going to generate here, you need a place to put them. With [Crypto.com](https://crypto.com/app/2kcmr7gew4) you'll get a free bank account, free debit card and a free wallet for your crypto. And you need all of them. BONUS: If you apply for a Ruby Card, then you'll get $25 US. So click the link, apply for your account and enjoy your first money. You can apply for free or stake a little and get $25US. Apply now at [Crypto.com](https://crypto.com/app/2kcmr7gew4)
 
-### Markdown
+` Crypto.com is a cryptocurrency exchange company based in Singapore. As of 2022, the company has 50 million customers and 4,000 employees. The platform's official Cryptocurrency is Cronos.`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Your first free crypto
+Now its time to read and quiz a little and earn your first free money. Coinbase.com is giving away $10 US right now in free crypto. Right now means that this is whats happening there now. I've earned about $60 on quizzes at coinbase. It takes about 1 minute to read and answer a quiz to earn. Its time to apply for a coinbase account, then click on Learning Rewards and get your free crypto. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xodeus/xodeus.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
