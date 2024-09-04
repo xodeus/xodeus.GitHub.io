@@ -14,6 +14,7 @@ LKF John Jeppesen <br>
 LKF Jakob Venø Heiwald <br>
 TGF Mette Lohse Jensen <br>
 TGF Louisa Maria Valdsgaard <br>
+TGF Simon Kolager <br>
 
 ## Tinglev 1
 TGF Bjarne Vesterbrandt <br>
@@ -21,4 +22,4 @@ TGF Bjarne Vesterbrandt <br>
 <br>
 <br>
 <br>
-Senest opdateret 04.09.2024 13:00
+Senest opdateret 04.09.2024 14:30
