@@ -1,5 +1,5 @@
 # Deltagere til Julefrokosten 2024
-## Fredericia 19
+## Fredericia 20
 TGF Anette Kristensen <br>
 TGF Karina Wærnskjold <br>
 TGF Eva Risgaard <br>
@@ -20,6 +20,7 @@ TGF Lisbeth Villumsen <br>
 TGF Frank Thustrup <br>
 LKF Kim K Karlsson <br>
 LKF Dan Mørk Frandsen <br>
+TGF Karoline Hedegaard <br>
 <br>
 ## Tinglev 1
 TGF Bjarne Vesterbrandt <br>
@@ -29,4 +30,4 @@ TGF Bjarne Vesterbrandt <br>
 LKF Michael Pedersen <br>
 <br>
 <br>
-Senest opdateret 06.09.2024 15:30
+Senest opdateret 06.09.2024 18:45
