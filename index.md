@@ -24,7 +24,8 @@ TGF Karoline Hedegaard <br>
 <br>
 LKF Dennis Frost <br>
 TGF Thomas R Larsen <br>
-TGF Mark F Theill
+TGF Mark F Theill <br>
+LKF Tommy Juhl Madsen 🎋
 ## Tinglev 1
 TGF Bjarne Vesterbrandt <br>
 <br>
@@ -34,4 +35,5 @@ LKF Michael Pedersen <br>
 LKF John B Povlsen <br>
 <br>
 <br>
-Senest opdateret 09.09.2024 23:05
+🎋 Kommer efter maden
+Senest opdateret 13.09.2024 13:30
