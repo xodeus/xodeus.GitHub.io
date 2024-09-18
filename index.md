@@ -32,10 +32,11 @@ TGF Lone Lincoln Steffensen <br>
 TGF Jesper W M Hansen <br> 
 ## Tinglev 1
 TGF Bjarne Vesterbrandt <br>
-## Esbjerg 2
+## Esbjerg 3
 LKF Michael Pedersen <br>
 LKF John B Povlsen <br>
+LKF Jens Henrik Andersen 
 <br>
 <br>
 🎋 Kommer efter maden <br>
-Senest opdateret 18.09.2024 8:00
+Senest opdateret 18.09.2024 8:45
