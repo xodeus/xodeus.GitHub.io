@@ -1,5 +1,5 @@
 # Deltagere til Julefrokosten 2024
-## Fredericia 26
+## Fredericia 28
 TGF Anette Kristensen <br>
 TGF Karina Wærnskjold <br>
 TGF Eva Risgaard <br>
@@ -27,15 +27,15 @@ TGF Thomas R Larsen <br>
 TGF Mark F Theill <br>
 LKF Tommy Juhl Madsen 🎋<br>
 TGF Maria Ebert <br>
-TGF Trine B Nielsen
+TGF Trine B Nielsen <br>
+TGF Lone Lincoln Steffensen <br>
+TGF Jesper W M Hansen <br> 
 ## Tinglev 1
 TGF Bjarne Vesterbrandt <br>
-<br>
-<br>
 ## Esbjerg 2
 LKF Michael Pedersen <br>
 LKF John B Povlsen <br>
 <br>
 <br>
 🎋 Kommer efter maden <br>
-Senest opdateret 16.09.2024 13:30
+Senest opdateret 18.09.2024 8:00
