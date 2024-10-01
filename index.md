@@ -1,5 +1,5 @@
 # Deltagere til Julefrokosten 2024
-## Fredericia 38+3
+## Fredericia 39+3
 TGF Anette Kristensen <br>
 TGF Karina Wærnskjold <br>
 TGF Eva Risgaard <br>
@@ -45,6 +45,7 @@ TGF Dorthe D Laigaard<br>
 TGF Mona F Frankby<br>
 <br>
 TGF Betina N Jørgensen <br>
+LKF Tina Jensen<br>
 ## Tinglev 1
 TGF Bjarne Vesterbrandt <br>
 ## Esbjerg 3
