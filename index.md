@@ -62,4 +62,4 @@ LKF Jens Henrik Andersen
 <br>
 <br>
 🎋 Kommer efter maden <br>
-Senest opdateret 06.10.2024 9:00
+Senest opdateret 07.10.2024 15:00
