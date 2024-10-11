@@ -57,8 +57,9 @@ LKF Frank Wichmann<br>
 <br>
 TGF Kim Steven<br>
 TGF Anja S Rasmussen<br>
-## Tinglev 1
-TGF Bjarne Vesterbrandt <br>
+## Tinglev 2
+TGF Bjarne Vesterbrandt <br
+LKF Børge C. Hansen <bt>
 ## Esbjerg 3
 LKF Michael Pedersen <br>
 LKF John B Povlsen <br>
@@ -66,4 +67,4 @@ LKF Jens Henrik Andersen
 <br>
 <br>
 🎋 Kommer efter maden <br>
-Senest opdateret 10.10.2024 18:25
+Senest opdateret 11.10.2024 6:25
