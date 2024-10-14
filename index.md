@@ -60,7 +60,7 @@ TGF Anja S Rasmussen<br>
 TGF Majbritt Villestofte<br>
 TGF Jesper Jørgensen 🎋<br>
 ## Tinglev 2
-TGF Bjarne Vesterbrandt <br
+TGF Bjarne Vesterbrandt <br>
 LKF Børge C. Hansen <br>
 ## Esbjerg 3
 LKF Michael Pedersen <br>
