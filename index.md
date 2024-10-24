@@ -69,8 +69,10 @@ LKF Børge C. Hansen <br>
 ## Esbjerg 3
 LKF Michael Pedersen <br>
 LKF John B Povlsen <br>
-LKF Jens Henrik Andersen 
+LKF Jens Henrik Andersen<br>
+## Struer 1
+TGF Johnny Bundesen
 <br>
 <br>
 🎋 Kommer efter maden <br>
-Senest opdateret 23.10.2024 7.00
+Senest opdateret 24.10.2024 7.00
