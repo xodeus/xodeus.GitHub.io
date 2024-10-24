@@ -1,4 +1,4 @@
-.# Deltagere til Julefrokosten 2024
+# Deltagere til Julefrokosten 2024
 ## Fredericia 54+6
 TGF Anette Kristensen <br>
 TGF Karina Wærnskjold <br>
