@@ -69,10 +69,11 @@ LKF Frank H Jørgensen<br>
 TGF Søren Lodberg<br>
 TGF Lotte Boel<br>
 LKF Thomas Lundgaard 🎋<br>
-## Tinglev 3
+## Tinglev 4
 TGF Bjarne Vesterbrandt <br>
 LKF Børge C. Hansen <br>
 LKF Brian Petersen<br>
+LKF Helmut K Hartmann<br>
 ## Esbjerg 3
 LKF Michael Pedersen <br>
 LKF John B Povlsen <br>
@@ -82,4 +83,4 @@ TGF Johnny Bundesen
 <br>
 <br>
 🎋 Kommer efter maden <br>
-Senest opdateret 25.10.2024 15:30
+Senest opdateret 28.10.2024 20:30
