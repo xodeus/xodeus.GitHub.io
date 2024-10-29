@@ -69,11 +69,13 @@ LKF Frank H Jørgensen<br>
 TGF Søren Lodberg<br>
 TGF Lotte Boel<br>
 LKF Thomas Lundgaard 🎋<br>
-## Tinglev 4
+## Tinglev 6
 TGF Bjarne Vesterbrandt <br>
 LKF Børge C. Hansen <br>
 LKF Brian Petersen<br>
 LKF Helmut K Hartmann<br>
+LKF Dorte Lorenzen<br>
+TGF Betina Kollmorgen<br>
 ## Esbjerg 3
 LKF Michael Pedersen <br>
 LKF John B Povlsen <br>
