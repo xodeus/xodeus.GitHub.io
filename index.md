@@ -79,7 +79,7 @@ TGF Bettina Lyngsø<br>
 <br>
 TGF Charlotte Wiborg<br>
 TGF Morten Nedergaard<br>
-LKF John Malling Jensen<br>
+LKF Johnny Malling Jensen<br>
 
 ## Tinglev 6
 TGF Bjarne Vesterbrandt <br>
@@ -100,4 +100,4 @@ LKF Peter Axelsen
 <br>
 <br>
 🎋 Kommer efter maden <br>
-Senest opdateret 4.11.2024 15:20
+Senest opdateret 4.11.2024 15:21
