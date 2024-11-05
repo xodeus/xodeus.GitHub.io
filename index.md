@@ -82,7 +82,7 @@ TGF Morten Nedergaard<br>
 LKF Johnny Malling Jensen<br>
 LKF Magnus M Larsen<br>
 LKF Steffen Paulsen<br>
-LKF Ole Norman 🎋<br>
+LKF Ole Norman <br>
 ## Tinglev 6
 TGF Bjarne Vesterbrandt <br>
 LKF Børge C. Hansen <br>
