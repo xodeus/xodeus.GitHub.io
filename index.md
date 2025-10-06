@@ -129,10 +129,14 @@
     <a class="btn" href="https://forms.office.com/e/ezyfAwTE0t" target="_blank">
       🎅 Tilmeld mig nu 🎅
     </a>
+
+    <a class="btn" href="https://xodeus.github.io/tilmeldte2025" target="_blank">
+      🕺 Hvem skal med 💃
+    </a>
   </main>
 
   <footer>
-    Arrangeret af frivillige kolleger fra Fredericia depot · Glædelig jul!
+    Arrangeret af Festudvalget på Fredericia depot · Glædelig jul!
   </footer>
 
 </body>
