@@ -1,1 +1,139 @@
-der er tomt her
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Julefrokost 2025</title>
+  <style>
+    /* --- Grundtema --- */
+    body {
+      margin: 0;
+      font-family: 'Open Sans', Arial, sans-serif;
+      background: linear-gradient(to bottom, #ffffff 0%, #fafafa 100%);
+      color: #333;
+      overflow-x: hidden;
+    }
+
+    /* --- Sneeffekt --- */
+    @keyframes snow {
+      0% { transform: translateY(0); opacity: 1; }
+      100% { transform: translateY(100vh); opacity: 0; }
+    }
+    .snowflake {
+      position: fixed;
+      top: -10px;
+      color: #fff;
+      font-size: 1em;
+      animation: snow linear infinite;
+      z-index: 1000;
+    }
+
+    /* --- Banner --- */
+    header {
+      background-color: #b30000;
+      color: white;
+      text-align: center;
+      padding: 1rem 0;
+      font-family: 'Playfair Display', serif;
+      letter-spacing: 1px;
+      font-size: 1.6rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+
+    /* --- Indhold --- */
+    main {
+      max-width: 600px;
+      margin: 3rem auto;
+      padding: 2rem;
+      text-align: center;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      color: #b30000;
+      font-family: 'Playfair Display', serif;
+      margin-bottom: 0.5rem;
+      font-size: 2.2rem;
+    }
+
+    h2 {
+      color: #b30000;
+      font-weight: 400;
+      font-size: 1.4rem;
+      margin-top: 0;
+    }
+
+    p {
+      line-height: 1.6;
+      margin: 0.5rem 0;
+    }
+
+    /* --- Knap --- */
+    .btn {
+      display: inline-block;
+      margin-top: 2rem;
+      padding: 0.9rem 2rem;
+      font-size: 1.1rem;
+      color: white;
+      background-color: #b30000;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      transition: background 0.3s;
+      font-weight: bold;
+    }
+    .btn:hover {
+      background-color: #d40000;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.85rem;
+      color: #888;
+      padding: 2rem 0;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Sneeffekt -->
+  <script>
+    const snowCount = 40;
+    for (let i = 0; i < snowCount; i++) {
+      const snow = document.createElement('div');
+      snow.classList.add('snowflake');
+      snow.textContent = '❅';
+      snow.style.left = Math.random() * 100 + 'vw';
+      snow.style.animationDuration = 5 + Math.random() * 10 + 's';
+      snow.style.fontSize = 12 + Math.random() * 16 + 'px';
+      snow.style.opacity = Math.random();
+      document.body.appendChild(snow);
+    }
+  </script>
+
+  <header>
+    🎄 Julefrokost 2025 🎄
+  </header>
+
+  <main>
+    <h1>Julefrokost 2025</h1>
+    <h2>Alt kørende personale med tilknytning<br>til Fredericia depot er inviteret</h2>
+
+    <p><strong>Sted:</strong><br>Prinsessegade 61, Fredericia</p>
+    <p><strong>Festen starter:</strong><br>På Molly Malone</p>
+    <p><strong>Dato:</strong><br>Tirsdag den 11. november</p>
+    <p><strong>Tid:</strong><br>Kl. 12:00</p>
+
+    <a class="btn" href="https://forms.office.com/e/ezyfAwTE0t" target="_blank">
+      🎅 Tilmeld mig nu 🎅
+    </a>
+  </main>
+
+  <footer>
+    Arrangeret af frivillige kolleger fra Fredericia depot · Glædelig jul!
+  </footer>
+
+</body>
+</html>
