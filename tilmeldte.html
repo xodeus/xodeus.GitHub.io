@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tilmeldte · Julefrokost 2025</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Open Sans', Arial, sans-serif;
+      background: linear-gradient(to bottom, #ffffff 0%, #fafafa 100%);
+      color: #333;
+      overflow-x: hidden;
+    }
+
+    /* Sneeffekt */
+    @keyframes snow {
+      0% { transform: translateY(0); opacity: 1; }
+      100% { transform: translateY(100vh); opacity: 0; }
+    }
+    .snowflake {
+      position: fixed;
+      top: -10px;
+      color: #fff;
+      font-size: 1em;
+      animation: snow linear infinite;
+      z-index: 1000;
+    }
+
+    header {
+      background-color: #b30000;
+      color: white;
+      text-align: center;
+      padding: 1rem 0;
+      font-family: 'Playfair Display', serif;
+      letter-spacing: 1px;
+      font-size: 1.6rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+
+    main {
+      max-width: 600px;
+      margin: 3rem auto;
+      padding: 2rem;
+      text-align: center;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      color: #b30000;
+      font-family: 'Playfair Display', serif;
+      font-size: 2rem;
+      margin-bottom: 1.5rem;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      font-size: 1.1rem;
+      line-height: 1.8;
+    }
+
+    li {
+      padding: 0.3rem 0;
+      border-bottom: 1px solid #eee;
+    }
+
+    a.btn {
+      display: inline-block;
+      margin-top: 2rem;
+      padding: 0.9rem 2rem;
+      font-size: 1.1rem;
+      color: white;
+      background-color: #b30000;
+      border-radius: 5px;
+      text-decoration: none;
+      transition: background 0.3s;
+      font-weight: bold;
+    }
+
+    a.btn:hover {
+      background-color: #d40000;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.85rem;
+      color: #888;
+      padding: 2rem 0;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Sneeffekt -->
+  <script>
+    const snowCount = 40;
+    for (let i = 0; i < snowCount; i++) {
+      const snow = document.createElement('div');
+      snow.classList.add('snowflake');
+      snow.textContent = '❅';
+      snow.style.left = Math.random() * 100 + 'vw';
+      snow.style.animationDuration = 5 + Math.random() * 10 + 's';
+      snow.style.fontSize = 12 + Math.random() * 16 + 'px';
+      snow.style.opacity = Math.random();
+      document.body.appendChild(snow);
+    }
+  </script>
+
+  <header>
+    🎄 Julefrokost 2025 Tilmeldte 🎄
+  </header>
+
+  <main>
+    <h1>Tilmeldte deltagere</h1>
+    <ul>
+      <li>Mariusz</li>
+      <li>Anette</li>
+      <li>Christopher</li>
+    </ul>
+
+    <a href="index.html" class="btn">⬅ Tilbage til invitationen</a>
+  </main>
+
+  <footer>
+    Arrangeret af Festudvalget på Fredericia depot · Glædelig jul!
+  </footer>
+
+</body>
+</html>
