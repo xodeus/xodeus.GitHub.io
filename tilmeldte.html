@@ -61,11 +61,28 @@
       margin: 0;
       font-size: 1.1rem;
       line-height: 1.8;
+
+      /* 👇 To kolonner på computer 👇 */
+      columns: 2;
+      -webkit-columns: 2;
+      -moz-columns: 2;
+      column-gap: 2rem;
+      text-align: left;
     }
 
     li {
       padding: 0.3rem 0;
       border-bottom: 1px solid #eee;
+      break-inside: avoid;
+    }
+
+    /* 👇 Responsiv visning: 1 kolonne på mobil 👇 */
+    @media (max-width: 500px) {
+      ul {
+        columns: 1;
+        -webkit-columns: 1;
+        -moz-columns: 1;
+      }
     }
 
     a.btn {
